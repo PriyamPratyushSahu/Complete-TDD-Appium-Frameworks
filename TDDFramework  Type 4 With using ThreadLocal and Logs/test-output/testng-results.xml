@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-24T22:33:30 IST" name="Suite" finished-at="2022-12-24T22:34:58 IST" duration-ms="87735">
+    <groups>
+    </groups>
+    <test started-at="2022-12-24T22:33:30 IST" name="Test" finished-at="2022-12-24T22:34:58 IST" duration-ms="87735">
+      <class name="com.qa.tests.LoginTestsType4">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:33:30 IST" name="beforeTest" finished-at="2022-12-24T22:34:15 IST" duration-ms="45455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pixel_XL]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[11000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:15 IST" name="beforeClass" finished-at="2022-12-24T22:34:15 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:15 IST" name="beforeMethod" finished-at="2022-12-24T22:34:17 IST" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:17 IST" name="beforeMethod" finished-at="2022-12-24T22:34:20 IST" duration-ms="3140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTestsType4.invalidPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidPassword()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:20 IST" name="invalidPassword" finished-at="2022-12-24T22:34:28 IST" duration-ms="8161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassword -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:28 IST" name="afterMethod" finished-at="2022-12-24T22:34:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:28 IST" name="afterMethod" finished-at="2022-12-24T22:34:30 IST" duration-ms="2162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword status=SUCCESS method=LoginTestsType4.invalidPassword()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:30 IST" name="beforeMethod" finished-at="2022-12-24T22:34:32 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:32 IST" name="beforeMethod" finished-at="2022-12-24T22:34:34 IST" duration-ms="2230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTestsType4.invalidUserName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidUserName()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:34 IST" name="invalidUserName" finished-at="2022-12-24T22:34:41 IST" duration-ms="7203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserName -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:41 IST" name="afterMethod" finished-at="2022-12-24T22:34:44 IST" duration-ms="2363" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidUserName status=SUCCESS method=LoginTestsType4.invalidUserName()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:41 IST" name="afterMethod" finished-at="2022-12-24T22:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:44 IST" name="beforeMethod" finished-at="2022-12-24T22:34:45 IST" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:45 IST" name="beforeMethod" finished-at="2022-12-24T22:34:47 IST" duration-ms="1913" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTestsType4.successfulLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="successfulLogin()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:47 IST" name="successfulLogin" finished-at="2022-12-24T22:34:54 IST" duration-ms="7087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:54 IST" name="afterMethod" finished-at="2022-12-24T22:34:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:54 IST" name="afterMethod" finished-at="2022-12-24T22:34:56 IST" duration-ms="2501" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=successfulLogin status=SUCCESS method=LoginTestsType4.successfulLogin()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:56 IST" name="afterClass" finished-at="2022-12-24T22:34:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.LoginTestsType4@3bf7ca37]" started-at="2022-12-24T22:34:56 IST" name="afterTest" finished-at="2022-12-24T22:34:58 IST" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.tests.LoginTestsType4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-23T11:26:11 IST" name="Suite" finished-at="2022-12-23T11:26:54 IST" duration-ms="43425">
+    <groups>
+    </groups>
+    <test started-at="2022-12-23T11:26:11 IST" name="Test" finished-at="2022-12-23T11:26:54 IST" duration-ms="43425">
+      <class name="com.qa.tests.ProductTests2">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:11 IST" name="beforeTest" finished-at="2022-12-23T11:26:23 IST" duration-ms="11994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pixel_XL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:23 IST" name="beforeClass" finished-at="2022-12-23T11:26:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:23 IST" name="beforeMethod" finished-at="2022-12-23T11:26:24 IST" duration-ms="1223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:24 IST" name="beforeMethod" finished-at="2022-12-23T11:26:28 IST" duration-ms="3544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.ProductTests2.validateProductOnProductDetailsPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateProductOnProductDetailsPage()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:28 IST" name="validateProductOnProductDetailsPage" finished-at="2022-12-23T11:26:34 IST" duration-ms="6786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductOnProductDetailsPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:34 IST" name="afterMethod" finished-at="2022-12-23T11:26:39 IST" duration-ms="4251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:39 IST" name="afterMethod" finished-at="2022-12-23T11:26:40 IST" duration-ms="1570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateProductOnProductDetailsPage status=SUCCESS method=ProductTests2.validateProductOnProductDetailsPage()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:40 IST" name="beforeMethod" finished-at="2022-12-23T11:26:41 IST" duration-ms="892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:41 IST" name="beforeMethod" finished-at="2022-12-23T11:26:47 IST" duration-ms="5979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.ProductTests2.validateProductOnProductsPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateProductOnProductsPage()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:47 IST" name="validateProductOnProductsPage" finished-at="2022-12-23T11:26:49 IST" duration-ms="1383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductOnProductsPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:49 IST" name="afterMethod" finished-at="2022-12-23T11:26:52 IST" duration-ms="3427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:52 IST" name="afterMethod" finished-at="2022-12-23T11:26:53 IST" duration-ms="1513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateProductOnProductsPage status=SUCCESS method=ProductTests2.validateProductOnProductsPage()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:53 IST" name="afterClass" finished-at="2022-12-23T11:26:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.ProductTests2@9d5509a]" started-at="2022-12-23T11:26:53 IST" name="afterTest" finished-at="2022-12-23T11:26:54 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.tests.ProductTests2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

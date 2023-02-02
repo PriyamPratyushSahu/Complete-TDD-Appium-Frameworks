@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<!-- parallel = "tests" to run automation on multiple devices -->
+<listeners>
+<listener class-name = "com.qa.listeners.TestListener" />
+</listeners>
+  <test name="Emulator"> <!-- For Emulator -->
+  <parameter name = "emulator" value="false"/> 
+  <parameter name = "platformName" value="Android"/>
+   <parameter name = "deviceName" value="Pixel_XL"/> 
+  <parameter name = "udid" value="emulator-5554"/>
+  <parameter name = "systemPort" value="10000"/> 
+  <parameter name = "chromeDriverPort" value="11000"/>    
+  
+    <classes>
+    <!-- <class name="com.qa.tests.LoginTests"> -->
+    <!-- <class name="com.qa.tests.ProductTests"> -->
+      <class name="com.qa.tests.ProductTests2"> 
+      </class>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Real Device"> <!-- Real Device -->
+  <parameter name = "emulator" value="false"/> 
+  <parameter name = "platformName" value="Android"/>
+  <parameter name = "deviceName" value="One Plus 7T"/> 
+  <parameter name = "udid" value="4078db86"/> -->   
+  <parameter name = "systemPort" value="10002"/> 
+  <parameter name = "chromeDriverPort" value="11002"/>    
+  
+    <classes>
+    <!-- <class name="com.qa.tests.LoginTests"> -->    
+    <!-- <class name="com.qa.tests.ProductTests"> -->
+    <class name="com.qa.tests.ProductTests2"> 
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

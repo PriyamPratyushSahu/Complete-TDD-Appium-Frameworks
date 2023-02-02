@@ -1,0 +1,34 @@
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:24:25.315 BaseTest:280 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:24:25.332 BaseTest:333 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework_Type_5\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:04.844 ProductTests2:65 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:04.995 ProductTests2:67 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:06.651 LoginPage:22 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:08.418 LoginPage:30 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:10.249 LoginPage:38 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:10.269 ProductsPage:41 - Press SLB title link
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:14.266 ProductsDetailsPage:25 - Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:18.473 ProductsDetailsPage:31 - Description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:18.583 ProductsDetailsPage:36 - Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:18.584 ProductsDetailsPage:48 - Navigate back to product page.........
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:18.769 ProductTests2:119 - 
+
+****** validateProductOnProductDetailsPage Successful ******
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:19.915 SettingsPage:18 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:22.586 ProductTests2:80 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:24.844 ProductTests2:65 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:24.845 ProductTests2:67 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:27.254 LoginPage:22 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:28.933 LoginPage:30 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:30.599 LoginPage:38 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:32.054 ProductsPage:29 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:32.178 ProductsPage:35 - Product Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:32.178 ProductTests2:94 - 
+
+******* validateProductOnProductsPage Successful ******* 
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:32.350 SettingsPage:18 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:34.731 ProductTests2:80 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2023-01-12 09:25:36.466 BaseTest:239 - Appium server stopped

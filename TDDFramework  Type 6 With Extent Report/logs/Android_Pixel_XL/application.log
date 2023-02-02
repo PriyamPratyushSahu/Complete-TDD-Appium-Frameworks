@@ -1,0 +1,590 @@
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:28.721 BaseTest:231 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:28.746 BaseTest:285 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:40.478 ProductTests2:63 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:41.470 BaseTest:358 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:42.038 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:42.231 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:42.246 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:08:42.249 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:05.943 BaseTest:231 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:05.967 BaseTest:285 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:17.932 ProductTests2:63 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:18.850 BaseTest:358 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:19.453 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:19.658 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:19.667 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:35:19.670 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:37:55.148 BaseTest:231 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:37:55.171 BaseTest:285 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:07.101 BaseTest:390 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:08.393 BaseTest:401 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:08.813 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:11.772 BaseTest:358 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:12.384 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:12.561 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:12.571 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:38:12.573 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:40:50.647 BaseTest:231 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:40:50.672 BaseTest:285 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:02.606 BaseTest:390 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:03.928 BaseTest:401 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:04.461 LoginTestsType4:63 - 
+******* STARTING TEST: invalidPassword -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:04.470 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:04.714 LoginTestsType4:90 - Test No: 2
+Invalid Password
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:07.485 BaseTest:358 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:09.124 BaseTest:358 - Password: invalidpassword
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:10.181 BaseTest:343 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:10.937 BaseTest:383 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:10.938 LoginTestsType4:99 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:10.938 LoginTestsType4:100 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:10.942 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:13.225 BaseTest:390 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:14.478 BaseTest:401 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:14.918 LoginTestsType4:63 - 
+******* STARTING TEST: invalidUserName -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:14.921 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:17.989 BaseTest:358 - Username: invalidusername
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:19.573 BaseTest:358 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:20.134 BaseTest:343 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:20.917 BaseTest:383 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:20.917 LoginTestsType4:82 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:20.917 LoginTestsType4:83 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:20.918 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:23.751 BaseTest:390 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:24.899 BaseTest:401 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:25.357 LoginTestsType4:63 - 
+******* STARTING TEST: successfulLogin -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:25.358 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:25.360 LoginTestsType4:108 - Test No: 3
+Successful Login
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:28.413 BaseTest:358 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:30.066 BaseTest:358 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:31.106 BaseTest:343 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:32.388 BaseTest:383 - Product Page Title is: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:32.389 LoginTestsType4:117 - Actual title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:32.389 LoginTestsType4:118 - Expected title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:32.389 LoginTestsType4:121 - String Match: true
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:41:32.390 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:46:37.139 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:46:37.180 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:46:53.738 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:46:55.433 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:46:55.997 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:46:59.383 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:47:00.002 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:47:00.234 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:47:00.245 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:47:00.249 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:11.911 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:11.951 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:29.557 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:31.302 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:31.837 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:35.201 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:35.810 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:36.040 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:36.052 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 16:52:36.055 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:18.837 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:18.879 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:35.011 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:36.451 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:36.953 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:40.548 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:40.632 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:40.861 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:40.871 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:08:40.877 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:07.807 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:07.852 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:24.297 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:25.982 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:26.529 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:30.024 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:30.110 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:30.348 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:30.357 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:11:30.359 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:13.980 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:14.014 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:20.042 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:20.228 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:20.239 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:20.242 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:20.249 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:20.252 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:36.436 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:36.478 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:52.476 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:53.903 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:54.632 LoginTestsType4:63 - 
+******* STARTING TEST: invalidPassword -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:54.638 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:54.914 LoginTestsType4:90 - Test No: 2
+Invalid Password
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:58.191 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:12:59.869 BaseTest:361 - Password: invalidpassword
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:00.934 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:02.106 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:02.107 LoginTestsType4:99 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:02.107 LoginTestsType4:100 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:02.112 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:04.900 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:06.405 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:07.030 LoginTestsType4:63 - 
+******* STARTING TEST: invalidUserName -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:07.031 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:10.594 BaseTest:361 - Username: invalidusername
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:12.266 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:12.847 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:13.706 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:13.707 LoginTestsType4:82 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:13.707 LoginTestsType4:83 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:13.708 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:16.600 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:18.256 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:18.849 LoginTestsType4:63 - 
+******* STARTING TEST: successfulLogin -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:18.853 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:18.859 LoginTestsType4:108 - Test No: 3
+Successful Login
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:22.493 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:24.147 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:25.214 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:26.790 BaseTest:386 - Product Page Title is: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:26.790 LoginTestsType4:117 - Actual title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:26.790 LoginTestsType4:118 - Expected title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:26.791 LoginTestsType4:121 - String Match: true
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:26.792 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:45.122 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:13:45.159 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:00.676 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:02.207 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:02.768 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:06.274 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:06.353 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:06.553 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:06.562 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:14:06.564 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:26.544 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:26.589 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:43.616 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:45.329 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:45.812 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:45.938 LoginTestsType4:64 - 
+******* STARTING TEST: invalidPassword -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:45.949 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:46.213 LoginTestsType4:91 - Test No: 2
+Invalid Password
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:49.362 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:51.052 BaseTest:361 - Password: invalidpassword
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:52.149 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:53.098 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:53.099 LoginTestsType4:100 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:53.099 LoginTestsType4:101 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:53.104 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:56.603 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:58.050 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:58.675 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:58.680 LoginTestsType4:64 - 
+******* STARTING TEST: invalidUserName -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:16:58.683 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:02.679 BaseTest:361 - Username: invalidusername
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:04.444 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:05.523 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:06.371 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:06.371 LoginTestsType4:83 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:06.371 LoginTestsType4:84 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:06.374 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:09.099 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:10.482 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:11.026 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:11.027 LoginTestsType4:64 - 
+******* STARTING TEST: successfulLogin -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:11.029 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:11.030 LoginTestsType4:109 - Test No: 3
+Successful Login
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:14.494 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:16.145 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:17.197 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:18.951 BaseTest:386 - Product Page Title is: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:18.951 LoginTestsType4:118 - Actual title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:18.952 LoginTestsType4:119 - Expected title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:18.953 LoginTestsType4:122 - String Match: true
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:17:18.954 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:33.615 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:33.656 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:49.373 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:50.770 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:51.291 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:51.418 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:54.762 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:55.366 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:55.582 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:55.592 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:18:55.594 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:25:46.105 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:25:46.148 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:03.057 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:04.817 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:05.381 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:05.518 LoginTestsType4:64 - 
+******* STARTING TEST: invalidPassword -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:05.544 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:05.834 LoginTestsType4:89 - Test No: 2
+Invalid Password
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:09.005 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:10.681 BaseTest:361 - Password: invalidpassword
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:11.270 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:12.059 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:12.060 LoginTestsType4:98 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:12.060 LoginTestsType4:99 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:12.065 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:14.762 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:16.173 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:16.746 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:16.750 LoginTestsType4:64 - 
+******* STARTING TEST: invalidUserName -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:16.752 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:20.179 BaseTest:361 - Username: invalidusername
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:21.865 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:22.937 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:23.795 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:23.796 LoginTestsType4:81 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:23.797 LoginTestsType4:82 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:23.799 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:26.505 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:27.920 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:28.493 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:28.495 LoginTestsType4:64 - 
+******* STARTING TEST: successfulLogin -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:28.497 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:28.498 LoginTestsType4:107 - Test No: 3
+Successful Login
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:31.975 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:33.612 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:34.664 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:36.307 BaseTest:386 - Product Page Title is: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:36.307 LoginTestsType4:116 - Actual title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:36.308 LoginTestsType4:117 - Expected title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:36.308 LoginTestsType4:120 - String Match: true
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:26:36.310 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:29.737 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:29.786 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:46.316 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:48.045 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:48.614 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:48.741 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:52.121 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:52.748 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:52.960 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:52.977 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:27:52.983 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:20.002 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:20.042 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:36.673 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:38.308 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:38.897 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:39.031 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:42.364 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:42.972 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:43.193 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:43.203 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:31:43.206 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:12.951 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:12.992 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:30.498 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:32.290 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:32.978 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:33.139 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:33.148 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:33.409 ProductTests2:102 - 
+
+****** validateProductOnProductDetailsPage  ******
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:34.490 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:35:34.495 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:20.301 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:20.347 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:37.017 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:38.722 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:39.337 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:39.457 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:39.467 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:39.737 ProductTests2:102 - 
+
+****** validateProductOnProductDetailsPage  ******
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:42.809 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:44.473 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:45.071 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:46.682 BaseTest:346 - Press SLB title link
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:37:48.365 BaseTest:386 - Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:00.880 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:02.686 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:02.791 ProductTests2:134 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:06.661 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:08.109 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:08.699 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:08.703 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:08.707 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:08.711 ProductTests2:83 - 
+
+******* validateProductOnProductsPage  ******* 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:12.220 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:13.910 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:14.506 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:16.219 BaseTest:386 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:16.421 BaseTest:386 - Product Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:16.424 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:16.804 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:18.644 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:38:18.717 ProductTests2:134 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:44:44.029 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:44:44.067 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:00.496 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:02.053 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:02.601 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:02.743 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:02.748 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:03.014 ProductTests2:102 - 
+
+****** validateProductOnProductDetailsPage  ******
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:06.069 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:07.776 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:08.852 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:10.427 BaseTest:346 - Press SLB title link
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:11.927 BaseTest:386 - Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:24.088 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:25.834 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:25.910 ProductTests2:136 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:30.264 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:31.720 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:32.278 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:32.281 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:32.284 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:32.286 ProductTests2:83 - 
+
+******* validateProductOnProductsPage  ******* 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:35.710 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:37.342 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:38.391 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:40.054 BaseTest:386 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:40.237 BaseTest:386 - Product Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:40.240 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:40.587 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:42.444 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:45:42.543 ProductTests2:136 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:46:59.172 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:46:59.212 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:15.878 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:17.541 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:18.056 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:18.186 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:18.191 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:18.443 ProductTests2:102 - 
+
+****** validateProductOnProductDetailsPage  ******
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:21.590 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:22.811 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:23.896 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:25.190 BaseTest:346 - Press SLB title link
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:26.588 BaseTest:386 - Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:30.545 BaseTest:386 - Description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:30.550 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:30.630 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:32.438 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:32.509 ProductTests2:136 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:35.697 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:37.115 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:37.708 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:37.710 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:37.712 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:37.715 ProductTests2:83 - 
+
+******* validateProductOnProductsPage  ******* 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:41.089 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:42.727 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:43.806 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:45.453 BaseTest:386 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:45.661 BaseTest:386 - Product Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:45.663 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:45.821 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:47.761 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:47:47.845 ProductTests2:136 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:30.597 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:30.636 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:47.369 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:49.047 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:49.613 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:49.744 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:49.753 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:50.029 ProductTests2:102 - 
+
+****** validateProductOnProductDetailsPage  ******
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:53.192 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:54.878 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:55.470 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:56.831 BaseTest:346 - Press SLB title link
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:51:58.261 BaseTest:386 - Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:02.280 BaseTest:386 - Description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:02.365 BaseTest:386 - Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:02.368 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:02.443 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:04.186 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:04.260 ProductTests2:132 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:07.574 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:09.028 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:09.588 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:09.590 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:09.591 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:09.593 ProductTests2:83 - 
+
+******* validateProductOnProductsPage  ******* 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:13.014 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:14.674 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:15.747 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:17.423 BaseTest:386 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:17.712 BaseTest:386 - Product Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:17.714 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:18.012 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:19.853 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:52:19.947 ProductTests2:132 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:26.548 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:26.589 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:44.571 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:46.382 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:46.941 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:47.063 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:50.464 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:51.085 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:55:51.267 TestListener:98 - onTestSkipped 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:06.471 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:06.511 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:22.860 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:24.453 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:25.005 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:25.128 LoginTestsType4:64 - 
+******* STARTING TEST: invalidPassword -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:25.137 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:25.403 LoginTestsType4:89 - Test No: 2
+Invalid Password
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:28.481 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:30.211 BaseTest:361 - Password: invalidpassword
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:31.283 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:32.095 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:32.096 LoginTestsType4:98 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:32.096 LoginTestsType4:99 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:32.100 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:34.720 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:36.102 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:36.674 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:36.677 LoginTestsType4:64 - 
+******* STARTING TEST: invalidUserName -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:36.680 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:40.067 BaseTest:361 - Username: invalidusername
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:41.708 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:42.771 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:43.619 BaseTest:386 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:43.620 LoginTestsType4:81 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:43.620 LoginTestsType4:82 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:43.621 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:46.363 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:47.862 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:48.402 LoginTestsType4:62 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:48.407 LoginTestsType4:64 - 
+******* STARTING TEST: successfulLogin -*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:48.411 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:48.417 LoginTestsType4:107 - Test No: 3
+Successful Login
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:51.953 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:53.585 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:54.218 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:55.955 BaseTest:386 - Product Page Title is: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:55.956 LoginTestsType4:116 - Actual title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:55.956 LoginTestsType4:117 - Expected title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:55.957 LoginTestsType4:120 - String Match: true
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:57:55.958 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:14.479 BaseTest:234 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:14.522 BaseTest:288 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:31.195 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:32.931 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:33.449 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:33.598 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:33.604 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:33.867 ProductTests2:92 - 
+
+****** validateProductOnProductDetailsPage  ******
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:36.897 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:38.599 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:39.693 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:41.200 BaseTest:346 - Press SLB title link
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:42.884 BaseTest:386 - Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:46.884 BaseTest:386 - Description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:46.985 BaseTest:386 - Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:46.988 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:47.055 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:48.796 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:48.881 ProductTests2:121 - Log-out
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:52.360 BaseTest:393 - Close App Method Invoked
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:53.809 BaseTest:404 - Launch App Method Invoked---------------------------------------------------------------
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:54.320 ProductTests2:66 - Log-in
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:54.327 ProductTests2:68 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:54.329 TestListener:82 - onTestStart 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:54.332 ProductTests2:75 - 
+
+******* validateProductOnProductsPage  ******* 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:57.791 BaseTest:361 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 17:59:59.435 BaseTest:361 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:00.509 BaseTest:346 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:02.218 BaseTest:386 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:02.473 BaseTest:386 - Product Price: $29.99
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:02.477 TestListener:91 - onTestSuccess 
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:02.717 BaseTest:346 - Press Settings Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:04.552 BaseTest:346 - Press Logout Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-26 18:00:04.631 ProductTests2:121 - Log-out

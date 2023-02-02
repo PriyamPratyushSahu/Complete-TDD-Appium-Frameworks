@@ -1,0 +1,33 @@
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:45:43.668 BaseTest:231 - log path: logs\Android_One Plus 7T
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:45:43.676 BaseTest:284 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:00.113 ProductTests2:65 - Log-in
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:00.116 ProductTests2:67 - 
+******* STARTING TEST: validateProductOnProductDetailsPage-*******
+
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:00.883 LoginPage:22 - Username: standard_user
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:02.856 LoginPage:30 - Password: secret_sauce
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:06.847 LoginPage:38 - Press Login Button
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:06.849 ProductsPage:41 - Press SLB title link
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:10.061 ProductsDetailsPage:25 - Title: Sauce Labs Backpack
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:10.952 ProductsDetailsPage:31 - Description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:11.102 ProductsDetailsPage:36 - Price: $29.99
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:11.103 ProductsDetailsPage:48 - Navigate back to product page.........
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:12.965 ProductTests2:119 - 
+
+****** validateProductOnProductDetailsPage Successful ******
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:14.958 SettingsPage:18 - Press Logout Button
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:18.588 ProductTests2:80 - Log-out
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:22.457 ProductTests2:65 - Log-in
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:22.458 ProductTests2:67 - 
+******* STARTING TEST: validateProductOnProductsPage-*******
+
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:24.755 LoginPage:22 - Username: standard_user
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:27.858 LoginPage:30 - Password: secret_sauce
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:31.927 LoginPage:38 - Press Login Button
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:33.944 ProductsPage:29 - Product Page Title: Sauce Labs Backpack
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:34.729 ProductsPage:35 - Product Price: $29.99
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:34.729 ProductTests2:94 - 
+
+******* validateProductOnProductsPage Successful ******* 
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:36.763 SettingsPage:18 - Press Logout Button
+[logsAndroid_One Plus 7T INFO ] 2022-12-23 21:46:38.487 ProductTests2:80 - Log-out

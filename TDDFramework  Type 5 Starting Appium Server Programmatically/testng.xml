@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<!-- parallel = "tests" to run automation on multiple devices -->
+  <test name="Test">
+  <!-- For Android -->
+  <parameter name = "platformName" value="Android"/>
+  <parameter name = "emulator" value="true"/>
+  <!-- For starting the emulator use value as true else keep it false 
+   false works using udid provided either for real device or emulator  -->
+   
+   
+  <!-- Emulator -->
+   
+  <parameter name = "deviceName" value="Pixel_XL"/> 
+  <parameter name = "platformVersion" value="11.0"/>  
+  <parameter name = "udid" value="emulator-5554"/>
+   <parameter name = "systemPort" value="10000"/> 
+  <parameter name = "chromeDriverPort" value="11000"/>   
+  
+  <!-- Real Device -->
+  <!--  <parameter name = "deviceName" value="One Plus 7T"/> 
+  <parameter name = "platformVersion" value="11.0"/>
+  <parameter name = "udid" value="4078db86"/> --> 
+  
+ 
+  
+    <!-- For iOS -->
+  <!-- <parameter name = "platformName" value="iOS"/> -->
+  <!-- <parameter name = "platformVersion" value="13.3"/> -->
+  <!-- <parameter name = "deviceName" value="iPhone 11"/> -->
+  
+    <classes>
+    <!-- <class name="com.qa.tests.LoginTests"> -->
+    
+      <class name="com.qa.tests.LoginTestsType4"> 
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

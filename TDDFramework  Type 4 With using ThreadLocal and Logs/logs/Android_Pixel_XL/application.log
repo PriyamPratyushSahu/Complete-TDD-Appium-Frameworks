@@ -1,0 +1,34 @@
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:33:31.025 BaseTest:231 - log path: logs\Android_Pixel_XL
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:33:31.085 BaseTest:284 - App Url: C:\Users\priyamps\Downloads\Eclipse\Eclipse-Workspace\TDDFramework\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:20.665 LoginTestsType4:64 - 
+******* STARTING TEST: invalidPassword-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:20.673 LoginTestsType4:90 - Test No: 2
+Invalid Password
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:23.506 LoginPage:22 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:25.250 LoginPage:30 - Password: invalidpassword
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:26.991 LoginPage:38 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:28.822 LoginPage:56 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:28.823 LoginTestsType4:99 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:28.823 LoginTestsType4:100 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:34.628 LoginTestsType4:64 - 
+******* STARTING TEST: invalidUserName-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:37.446 LoginPage:22 - Username: invalidusername
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:39.127 LoginPage:30 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:40.859 LoginPage:38 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:41.830 LoginPage:56 - Error Text is: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:41.830 LoginTestsType4:82 - Actual text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:41.831 LoginTestsType4:83 - Expected text error: Username and password do not match any user in this service.
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:47.340 LoginTestsType4:64 - 
+******* STARTING TEST: successfulLogin-*******
+
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:47.342 LoginTestsType4:108 - Test No: 3
+Successful Login
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:50.060 LoginPage:22 - Username: standard_user
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:51.711 LoginPage:30 - Password: secret_sauce
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:52.873 LoginPage:38 - Press Login Button
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:54.425 ProductsPage:23 - Product Page Title is: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:54.426 LoginTestsType4:117 - Actual title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:54.426 LoginTestsType4:118 - Expected title: PRODUCTS
+[logsAndroid_Pixel_XL INFO ] 2022-12-24 22:34:54.427 LoginTestsType4:121 - String Match: true

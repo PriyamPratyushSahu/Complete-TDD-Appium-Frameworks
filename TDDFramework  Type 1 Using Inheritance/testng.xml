@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<!-- parallel = "tests" to run automation on multiple devices -->
+  <test name="Test">
+  <!-- For Android Emulator -->
+  <parameter name = "platformName" value="Android"/>
+  <parameter name = "platformVersion" value="11.0"/>
+  <parameter name = "deviceName" value="One Plus 7T"/>
+  
+    <classes>
+      <class name="com.qa.tests.LoginTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
